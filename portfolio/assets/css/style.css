@@ -1758,3 +1758,8 @@ p.form-message.success, p.form-message.error {
       cursor: pointer; }
 
 /*# sourceMappingURL=style.css.map */
+
+/*New CSS For card*/
+.appImage{
+  margin: 1em;
+}
