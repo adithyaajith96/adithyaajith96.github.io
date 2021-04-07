@@ -1763,3 +1763,13 @@ p.form-message.success, p.form-message.error {
 .appImage{
   margin: 1em;
 }
+
+#parallax{
+  margin-bottom: -15em;
+  
+}
+
+.contain{
+  margin-top:-12em;
+  margin-left: -6em;
+}
