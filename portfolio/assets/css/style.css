@@ -1762,6 +1762,7 @@ p.form-message.success, p.form-message.error {
 /*New CSS For card*/
 .appImage{
   margin: 1em;
+
 }
 
 #parallax{
@@ -1796,4 +1797,17 @@ p.form-message.success, p.form-message.error {
 .contain{
   margin-top: 6em;
 }
+}
+.experience{
+max-height: 42em;
+}
+
+
+.disabled{
+  border:  1px solid #cccccc !important;
+  background-color: #cccccc !important;
+  color: #666666 !important;
+}
+.disabled:hover{
+  border-color: none;
 }
